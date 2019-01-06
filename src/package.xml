@@ -20,5 +20,5 @@
         <members>Season__c-Season Layout</members>
         <name>Layout</name>
     </types>
-    <version>36.0</version>
+    <version>44.0</version>
 </Package>
